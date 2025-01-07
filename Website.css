@@ -1,0 +1,4 @@
+nav{background-color: aqua;height:90px;}
+
+nav ul{display:flex;
+flex-direction:column;list-style: none;text-align: center;padding-left: 0;}
